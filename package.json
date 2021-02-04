@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/pouyesh1362/indecision-app/issues"
   },
-  "homepage": "https://github.com/pouyesh1362/indecision-app#readme"
+  "homepage": "https://github.com/pouyesh1362/indecision-app#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-react": "^6.24.1"
+  }
 }
